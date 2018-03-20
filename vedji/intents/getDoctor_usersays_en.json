@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1bac098a-8f76-4183-b562-6b7771ff8828",
+    "data": [
+      {
+        "text": "doctor near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521542197
+  },
+  {
+    "id": "419205d2-3889-4e2d-a302-877e5acbc249",
+    "data": [
+      {
+        "text": "dr near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521542197
+  },
+  {
+    "id": "fa045f27-0218-4d84-99c5-17fe4b57fe02",
+    "data": [
+      {
+        "text": "show me doctors near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521542197
+  },
+  {
+    "id": "745e2367-d47f-4fff-bc49-e2dcb9fb2e08",
+    "data": [
+      {
+        "text": "doctors near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521542197
+  }
+]

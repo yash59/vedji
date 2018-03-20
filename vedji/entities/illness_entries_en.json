@@ -1,0 +1,24 @@
+[
+  {
+    "value": "fever",
+    "synonyms": [
+      "fever"
+    ]
+  },
+  {
+    "value": "headache",
+    "synonyms": [
+      "headache",
+      "head pain"
+    ]
+  },
+  {
+    "value": "stomach pain",
+    "synonyms": [
+      "stomach pain",
+      "gas",
+      "acidity",
+      "acidity"
+    ]
+  }
+]

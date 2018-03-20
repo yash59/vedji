@@ -1,0 +1,59 @@
+{
+  "id": "881ef9c5-f64d-434d-93fb-41cc0f31b8df",
+  "name": "fitness level",
+  "auto": true,
+  "contexts": [
+    "experties"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "experties",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "fitness",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "don\u0027t like to sweat"
+            },
+            {
+              "title": "I do cardio"
+            },
+            {
+              "title": "i am in great shape"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What is your level of fitness?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521565991,
+  "fallbackIntent": false,
+  "events": []
+}

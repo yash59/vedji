@@ -1,0 +1,188 @@
+[
+  {
+    "id": "fa7a0b30-006c-40af-8d0d-908b29c9e904",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521521481
+  },
+  {
+    "id": "6b6b4781-4c81-42be-8fab-c7e893a6a5ac",
+    "data": [
+      {
+        "text": "show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  },
+  {
+    "id": "a8498133-7ced-4f9c-a03a-9eb96853f66f",
+    "data": [
+      {
+        "text": "teach me ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  },
+  {
+    "id": "267126a4-1b28-4025-ae73-fda6c9c093b2",
+    "data": [
+      {
+        "text": "i am having ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  },
+  {
+    "id": "cc5d0684-d870-4afd-9724-5f94c9b6b976",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "ayurvedic",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": true
+      },
+      {
+        "text": " treatment for ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  },
+  {
+    "id": "d28a919e-27be-4c93-b5fd-02b2fca0b405",
+    "data": [
+      {
+        "text": "teach me some ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  },
+  {
+    "id": "9f0c92e1-37e9-4ded-a386-f15ca201abdd",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "home remedies",
+        "alias": "types",
+        "meta": "@types",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "illness",
+        "meta": "@illness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487008
+  }
+]

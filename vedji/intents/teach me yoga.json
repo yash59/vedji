@@ -1,0 +1,52 @@
+{
+  "id": "6d83ce2a-ab27-4b52-8e16-003f94936ef9",
+  "name": "teach me yoga",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "experties",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "beginner"
+            },
+            {
+              "title": "intermediate"
+            },
+            {
+              "title": "expert"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What is your level of experience with yoga?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521565677,
+  "fallbackIntent": false,
+  "events": []
+}

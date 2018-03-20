@@ -1,0 +1,59 @@
+{
+  "id": "3339c178-7381-4417-9eb2-e73c680fc6d8",
+  "name": "getDoctor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getdoctors",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "ayurvedic doctors near you",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "dr. amol",
+              "description": "contact - 12345678",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/vedji-2056c.appspot.com/o/doctors%2Fdr1.jpg?alt\u003dmedia\u0026token\u003dfa91b7b7-0e9f-4487-b9ec-064ff015fd0b"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "dr. priya",
+              "description": "contact - 12345678",
+              "image": {
+                "url": "https://firebasestorage.googleapis.com/v0/b/vedji-2056c.appspot.com/o/doctors%2Fdr2.jpg?alt\u003dmedia\u0026token\u003dbf9bcf81-3927-4b9e-804b-7c4ca85159ff"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "i am finding the doctors."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521542197,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "11d795d5-384d-492a-a393-04ab79453243",
+  "name": "ask illness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "illness",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b511150-214e-4100-875e-8e811bfc46b1",
+          "required": true,
+          "dataType": "@illness",
+          "name": "illness",
+          "value": "$illness",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I didn\u0027t understand !! please tell me, for which problem you need assistance ? for example headache, fever, sugar etc."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "8905731f-d040-453c-b8f7-8d2958340fdc",
+          "required": true,
+          "dataType": "@types",
+          "name": "types",
+          "value": "$types",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "which type of suggestion do you need? Ayurveda, yoga or acupressure."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "sorry, i don\u0027t know about this but i am learning very quickly. 😊"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1521543168,
+  "fallbackIntent": false,
+  "events": []
+}

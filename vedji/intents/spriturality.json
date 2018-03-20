@@ -1,0 +1,57 @@
+{
+  "id": "16b23a70-715d-49b2-ab10-87571b75df4c",
+  "name": "spriturality",
+  "auto": true,
+  "contexts": [
+    "fitness"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "fitness",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "yoga",
+          "subtitle": "pranayam yoga",
+          "formattedText": "1.Sit in a comfortable cross-legged position such as Easy Pose (Sukhasana).\nClose the right nostril with your right thumb.\n2.Inhale deeply through the left nostril.\nClose the left nostril with the ring finger of your right hand as you release the right nostril.\n3.Exhale slowly through your right nostril.\nKeeping the left nostril closed, inhale deeply through your right nostril.\nSeal the right nostril again with your thumb, then release the left nostril.\n4.Exhale out of the left nostril. You should now be in the original position, with the thumb sealing the right nostril.\n5.Repeat the process ten times, gradually increasing",
+          "image": {
+            "url": "https://firebasestorage.googleapis.com/v0/b/vedji-2056c.appspot.com/o/Yoga_AlternateChannelBreathing_300x350.jpg?alt\u003dmedia\u0026token\u003dbc3c378c-7019-4dad-b448-fc1801cb8c38"
+          },
+          "buttons": [
+            {
+              "title": "read more",
+              "openUrlAction": {
+                "url": "https://www.yogaoutlet.com/guides/how-to-do-pranayama-breathing-in-yoga"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "here is your recommended yoga"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521566612,
+  "fallbackIntent": false,
+  "events": []
+}

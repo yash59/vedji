@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9c12b6be-888b-4ed7-8a65-e948f51449af",
+    "data": [
+      {
+        "text": "expert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521565991
+  },
+  {
+    "id": "bc1beb51-2df4-4146-95f6-59ec048bf436",
+    "data": [
+      {
+        "text": "intermediate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521565991
+  },
+  {
+    "id": "8b824bc7-ecd4-4c60-8aa9-4469c91305bb",
+    "data": [
+      {
+        "text": "beginner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521565991
+  }
+]
